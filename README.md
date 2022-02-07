@@ -1,4 +1,4 @@
 # testjava1
 An example for my class!
 Some more cool stuff
-Pystrance
+Psytrance Playing the flute
